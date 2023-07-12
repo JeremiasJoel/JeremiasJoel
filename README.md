@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, me llamo Joel Perie</h1>
 <h3 align="center">Soy un autodidacta entusiasta del desarrollo de videojuegos</h3>
 
-- 🌱 I’m currently learning **Unreal Engine 5, C++**
+- 🌱 I’m currently learning **Unreal Engine 5, C++, Python**
 
 - 👯 Estoy colaborando en un trabajo grupal **Gladiatus**
 
-- 💬 Ask me about **Unreal engine 5, C++**
+- 💬 Ask me about **Unreal engine 5, C++, Python**
 
 - 📫 How to reach me **joel1988.jp@gmail.com**
 
